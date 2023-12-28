@@ -1,0 +1,9 @@
+http://10.1.0.119:9000/   -head office
+http://10.1.0.119:9001/	 -ilupeju branch
+http://10.1.0.119:9002/   -ilupeju sbu
+http://10.1.0.119:9003/	 -kaduna
+http://10.1.0.119:9004/   -mararaba
+http://10.1.0.119:9005/   -sbu 1
+http://10.1.0.119:9006/   -sbu2
+http://10.1.0.119:9007/   -suncity
+http://10.1.0.119:9009/   -index/homepage
